@@ -9,4 +9,9 @@ int mul(int a,int b)
 int power(int a,int b)
   return power(a,b)
   
+int minus(int a,int b)
+  return a-b;
+  
+  
+  
 
